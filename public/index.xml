@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry M. Herzog</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Henry M. Herzog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 23 Dec 2020 14:00:38 +0100</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>My name is Henry and I am living with my wife Mia and our Ragdoll Kimi in Nob Hill, San Francisco. I work as a sales representative at Cloudflare and built this site to test the performance and security features that I am selling. As I am entirely new to programming &amp;amp; front-end development, I was looking for an easy way to set up my own site without having to worry about complicated runtimes, dependencies, databases etc.</description>
+    </item>
+    
+  </channel>
+</rss>
